@@ -1,6 +1,6 @@
 # Video Ads Detect and Replace
 
-Given input .rgb and .wav files, design automatic way to detect commercial logos and ads. 
+**Given input .rgb and .wav files, design automatic way to detect commercial logos and ads**. 
 
 **cmd:**
 
